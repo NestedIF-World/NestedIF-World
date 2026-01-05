@@ -16,11 +16,11 @@
 ---
 
 ### 🚀 About Me
-I am a **Process Engineer** by profession and a **Data Enthusiast** by passion. I thrive on turning complex datasets into actionable insights. Having transitioned from a core engineering background, I bring a unique perspective on efficiency and optimization to the world of Data Analytics.
+I am a **Chemical Engineer** by profession and a **Data Enthusiast** by passion. I thrive on turning complex datasets into actionable insights. Having transitioned from a core engineering background, I bring a unique perspective on efficiency and optimization to the world of Data Analytics.
 
 - 🔭 **Current Focus:** Advanced Data Analysis & Visualization
 - 🎯 **Goal:** Transitioning into a full-time Data Analyst role
-- 📄 **Know about my experiences:** [Resume](https://github.com/Ritika3015/Ritika3015/blob/main/RitikaVishwakarma_Resume.pdf)
+- 📄 **Know about my experiences:** [Resume](https://github.com/NestedIF-World/NestedIF-World/blob/main/RitikaVishwakarma_Resume.pdf)
 - ⚡ **Fun Fact:** I view data like a process pipeline—every step counts!
 - 📧 **Let's Talk:** [ritikavishwakarma.999@gmail.com](mailto:ritikavishwakarma.999@gmail.com)
 
@@ -54,7 +54,7 @@ I am a **Process Engineer** by profession and a **Data Enthusiast** by passion. 
   <a href="https://www.linkedin.com/in/ritika-vishwakarma-633r6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Ritika3015" target="_blank">
+  <a href="https://github.com/NestedIF-World" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
