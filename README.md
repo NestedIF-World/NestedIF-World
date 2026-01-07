@@ -44,6 +44,7 @@ I am a **Chemical Engineer** by profession and a **Data Enthusiast** by passion.
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :--- |
 | **AQI Analytics** | Power BI, DAX| [Check out! ↗️](https://github.com/NestedIF-World/AQI-Analytics) |
+| **GooglePlaystore EDA** | Python, Pandas, Numpy| [Check out! ↗️](https://github.com/NestedIF-World/GooglePlaystore-Project) |
 
 ---
 
