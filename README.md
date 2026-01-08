@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ritika Vishwakarma</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Aspirant;Process+Engineer;Aspiring+Data+Analyst;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Aspirant;Aspiring+Data+Analyst;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Chemical Engineer** by profession and a **Data Enthusiast** by passion. I thrive on turning complex datasets into actionable insights. Having transitioned from a core engineering background, I bring a unique perspective on efficiency and optimization to the world of Data Analytics.
+I am a **Data Enthusiast** by passion. I thrive on turning complex datasets into actionable insights. Having transitioned from a core engineering background, I bring a unique perspective on efficiency and optimization to the world of Data Analytics.
 
 - 🔭 **Current Focus:** Advanced Data Analysis & Visualization
 - 🎯 **Goal:** Transitioning into a full-time Data Analyst role
