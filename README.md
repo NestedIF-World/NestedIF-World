@@ -62,11 +62,12 @@ I am a **Data Enthusiast** by passion. I thrive on turning complex datasets into
 </p>
 
 
-## 🎮 Contribution Animation
+## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NestedIF-World&theme=matrix&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/NestedIF-World/NestedIF-World/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
