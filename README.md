@@ -68,7 +68,6 @@ I am a **Data Enthusiast** by passion. I thrive on turning complex datasets into
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NestedIF-World/NestedIF-World/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/NestedIF-World=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
