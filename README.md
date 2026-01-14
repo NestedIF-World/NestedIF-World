@@ -20,7 +20,7 @@ I am a **Data Enthusiast** by passion. I thrive on turning complex datasets into
 
 - 🔭 **Current Focus:** Advanced Data Analysis & Visualization
 - 🎯 **Goal:** Transitioning into a full-time Data Analyst role
-- 📄 **Know about my experiences:** [Resume](https://github.com/NestedIF-World/NestedIF-World/blob/main/RitikaVishwakarma_Resume.pdf)
+- 📄 **Know about my experiences:** [Resume](https://github.com/NestedIF-World/NestedIF-World/blob/main/Ritika_Vishwakarma_resume.pdf)
 - ⚡ **Fun Fact:** I view data like a process pipeline—every step counts!
 - 📧 **Let's Talk:** [ritikavishwakarma.999@gmail.com](mailto:ritikavishwakarma.999@gmail.com)
 
